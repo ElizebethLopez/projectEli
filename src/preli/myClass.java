@@ -11,11 +11,14 @@ public class myClass {
 			
 		
 		
-		System.out.println("Hello world, this is the third version");	
+		System.out.println("Hello world, this is the fourth version");	
 		
 		for(int i=0; i<100;i++)
 		{
+			if(i==40) {
 			System.out.println(i);
+			break;
+			}
 		}	
 
 	}
