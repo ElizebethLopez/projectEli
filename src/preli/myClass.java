@@ -22,7 +22,7 @@ public class myClass {
 			break;
 			}
 		}	
-
+    System.out.println("Check to see if the changes are made properly ");
 	}
 
 }
